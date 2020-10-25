@@ -19,7 +19,7 @@ The repository has `hacktoberfest` topic added, hence the pull requests will cou
 
 A sample file `akshat_chhajer.json` has been added for your reference.
 
-- Commit the new new file added and open a pull request
+- Commit the new file added and open a pull request
 
 
 
