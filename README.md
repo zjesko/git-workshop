@@ -1,7 +1,7 @@
 # Git Workshop OSDG
 
 This is a repository for the git workshop held by OSDG IIIT-H.
-The repository has `hacktoberfest` topic added, hence the pull requests will count towards the completion of the challenge
+The repository has `hacktoberfest` topic added, hence the pull requests will count towards the completion of the challenge.
 
 ## Contributing
 
