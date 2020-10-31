@@ -42,7 +42,7 @@ git commit -m "<your commit message>"
 ```bash
 git push origin <new_branch_name>
 ```
-- Go back to the initial repository https://github.com/akshatcx/git-workshop and open a pull request
+- Go back to the initial repository https://github.com/akshatcx/git-workshop and open a pull request.
 
 
 
