@@ -14,11 +14,11 @@ git clone https://github.com/<your_github_username>/git-workshop
 ```bash
 cd git-workshop
 ```
-- Checkout to a new branch
+- Checkout to a new branch.
 ```bash
 git checkout -b <new_branch_name>
-```
-- Add a file `<your_name>.json` in the `introductions` folder in the following format
+```.
+- Add a file `<your_name>.json` in the `introductions` folder in the following format.
 ```bash
 {
 	"name": "your name",
