@@ -6,7 +6,7 @@ The repository has `hacktoberfest` topic added, hence the pull requests will cou
 ## Contributing
 
 - Fork this repository by going to https://github.com/akshatcx/git-workshop and clicking on `Fork`
-- Clone the forked repository
+- Clone the forked repository.
 ```bash
 git clone https://github.com/<your_github_username>/git-workshop
 ```
@@ -14,11 +14,11 @@ git clone https://github.com/<your_github_username>/git-workshop
 ```bash
 cd git-workshop
 ```
-- Checkout to a new branch
+- Checkout to a new branch.
 ```bash
 git checkout -b <new_branch_name>
-```
-- Add a file `<your_name>.json` in the `introductions` folder in the following format
+```.
+- Add a file `<your_name>.json` in the `introductions` folder in the following format.
 ```bash
 {
 	"name": "your name",
